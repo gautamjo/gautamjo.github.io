@@ -1,2 +1,2 @@
 # gautamjo.github.io
-The is my resume page
+This is my profile page
